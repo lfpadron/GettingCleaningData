@@ -1,6 +1,7 @@
 # *Getting and Cleaning Data* Coursera Project #
 
 Date: 2017-11-17
+
 Author: XXX XXX
 
 This repository contains the following files:
