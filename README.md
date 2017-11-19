@@ -6,9 +6,10 @@ Author: XXX XXX
 
 This repository contains the following files:
 
- - Readme.md: This file, which contains a brief description of the data and how it was created.
+ - README.md: This file, which contains a brief description of the data and how it was created.
  - run_analysis.R: The R script that was used to create the date.
  - secondTidyDataSet.txt: The file that contains the data set.
+ - CodeBook.md: the file describing the variables and transformations performed on the input data set.
 
 The full description of the source data set can be found at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
